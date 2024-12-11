@@ -1,0 +1,50 @@
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directories
+venv/
+.env/
+*.env
+*.venv/
+
+# Python egg and distribution directories
+.eggs/
+dist/
+build/
+*.egg-info/
+
+# IDE configurations (example: VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Jupyter Notebooks checkpoint files
+.ipynb_checkpoints/
+
+# Pipenv and Poetry lock files (if you’re using them)
+Pipfile.lock
+poetry.lock
+
+# Coverage reports
+.coverage
+*.cover
+*.hypothesis/
+
+# Test results
+nosetests.xml
+coverage.xml
+*.coverage
+
+# Log files
+*.log
+
+# Miscellaneous
+*.swp
+*.swo
