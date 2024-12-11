@@ -2,6 +2,7 @@
 
 The **Pong game** is a simple 2D table tennis simulation played between two players. 
 The players move their paddles up and down on opposite sides of the screen, trying to send the ball into the opponent's area. 
+The first player can move their paddle up with the 'w' button and down with the 's' button, while the second player can move it up with the '↑' button and down with the '↓' button.
 The goal is to score points by making the ball pass the opponent's paddle. 
 The ball bounces off the walls and paddles, continuing the game and creating a challenge that tests reflexes. 
 The player with the higher score wins the game.
