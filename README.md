@@ -1,6 +1,6 @@
 # Pong Game
 
-// description
+This is python Pong game
 
 // images
 
